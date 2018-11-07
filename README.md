@@ -1,16 +1,19 @@
-# ft_debug
+# ft_debut
+
+*For a better experience, read this at 
+[my medium post](https://medium.com/p/b80fbb6d5d2f)*
 
 ## What is 42
 
-1. In the most concise way possible, answer this question, what is 42?
-How would you describe 42 to someone who doesn’t know what 42 is?
+**1. In the most concise way possible, answer this question, what is 42?
+How would you describe 42 to someone who doesn’t know what 42 is?**
 
 > I would describe 42 as a tuition free coding school that revolves in a
 peer-to-peer ecosystem. It is very similar to a workplace, where critical
 thinking and problem solving skills go hand by hand, and a project based
 curriculum that can be completed at your own pace.
 
-2. Why are there no instructions on the initial 42 logic tests?
+**2. Why are there no instructions on the initial 42 logic tests?**
 
 > A student needs to have patience, determination, intuition, and a problem
 solving mindset. That’s why logic tests are simple, minimalist, and without
@@ -18,7 +21,7 @@ instructions. There are people that English is not their native language,
 and it is not fair for a test to test you on some unrelated skills,
 making a non-existent language barrier between the test and the candidate.
 
-3. What are the core 42 principles?
+**3. What are the core 42 principles?**
 
 > The school wants you to succeed.
 They want you to be a better person, someone who can proudly say:
@@ -33,8 +36,8 @@ It is like going to a different country, within the school.
 
 ## Why 42
 
-4. If somebody is thinking of going to 42, but has no coding
-experience - do you really think it’s worth their time?
+**4. If somebody is thinking of going to 42, but has no coding
+experience - do you really think it’s worth their time?**
 
 > Candidates don't need coding experience, none of us were born with
 computer science knowledge. We start from the same line, but some people are
@@ -43,7 +46,7 @@ giving up. Just keep practicing and studying, practicing and studying,
 practicing and studying… you will get better. Improvements matters,
 comparisons are just a reference.
 
-5. What makes 42 unique?
+**5. What makes 42 unique?**
 
 > Because of the French roots of the school, it feels very unique compared to
 American traditional university and schools. Xavier Niel, along with Kwame are
@@ -53,7 +56,7 @@ It is a small school, feels a lot like home.
 
 ## How to succeed at 42
 
-6. What do you think you’re learning the most at 42?
+**6. What do you think you’re learning the most at 42?**
 
 > Interestingly, what a person learn from 42 School, varies between them.
 This is because, 42, is the answer to life, the universe and everything.
@@ -64,8 +67,8 @@ It is very easy to make friends…
 I think that is what I got more from this school.
 I will always be thankful for this opportunity.
 
-7. Imagine (this will happen very soon in real life!), you’ve been stuck on the
-problem for a while and have no idea what to do - what your next steps would be?
+**7. Imagine (this will happen very soon in real life!), you’ve been stuck on the
+problem for a while and have no idea what to do - what your next steps would be?**
 
 > Getting myself stuck on a problem, and trying so hard to solve it,
 but taking a very long time to do it is one of the worst feelings.
@@ -87,9 +90,9 @@ That is where 42 comes into play.
 By knowing the different skills of people, you know who is good with
 JavaScript, Python, UI/UX design, Assembly, GraphQL, etc…
 
-8. How will you ensure that your personal level of motivation remains high
+**8. How will you ensure that your personal level of motivation remains high
 on a daily basis to complete at least 1 level per month without the Piscine
-pressure and strict deadlines?
+pressure and strict deadlines?**
 
 > So… 42 School is the best school out there, right?
 I don't know. But I know that 42 has some issues too, not everything is
@@ -109,8 +112,8 @@ If you are lazy, you are not going to level up in life.
 
 ## Life after 42
 
-9. If someone asks you why it says internships are required on the 42 website,
-but they do not offer job placement, what would you say?
+**9. If someone asks you why it says internships are required on the 42 website,
+but they do not offer job placement, what would you say?**
 
 > Internships and jobs are required at 42 School.
 Maybe they want us to grow personally, get some greens, and be successful
@@ -122,9 +125,9 @@ If you do well in 42 School, you already are working on your teamwork,
 communication, knowledge in doing research, rigor, creativity, adaptability,
 and other soft skills.
 
-10. How do the internships work? Is it mandatory that you have to reach a
+**10. How do the internships work? Is it mandatory that you have to reach a
 certain level before leaving on an internship or can you validate it anytime
-you find one?
+you find one?**
 
 > Of course, soft skills are important, but you are going to use your
 technical skills.
@@ -135,7 +138,7 @@ apply for an internship.
 It used to be level 7, then it went to level 10,
 and I think it went back to level 7?
 
-11. How does 42 help you adapt to a work place?
+**11. How does 42 help you adapt to a work place?**
 
 > Because the school is small, growing, and just starting…
 it feels a bit incomplete.
@@ -146,3 +149,14 @@ I am a believer that 42 School has great potential, but is up to us,
 the students to make it the best coding school in the entire world.
 With the skills gained through the program, students will be able to adapt to a
 work environment relatively fast.
+
+---
+
+In conclusion, if you want to visit the school, or even better, apply… do it. 
+It has been by far the best experience of my life, I have grown a lot, and 
+my perspective of the world changed… at least in some way.
+
+## Bonus
+
+By the way, pizza at Le Tiki at Corse is overrated.
+The pizza at Sorrento, Panama City is better. :)
