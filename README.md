@@ -60,8 +60,7 @@ This is because, 42, is the answer to life, the universe and everything.
 Yes, it is a coding school, but it is also type of vocational school.
 We have musicians, professional poker players, designers, actors, painters,
 and an alpaca shearer… keinen Spaß. ;)
-
-> It is very easy to make friends…
+It is very easy to make friends…
 I think that is what I got more from this school.
 I will always be thankful for this opportunity.
 
@@ -74,12 +73,10 @@ By contrast, solving this problem will bring you joy at the end.
 It is like a video game.
 It feels good.
 Like beating a Contra without using the Konami Code type of good.
-
-> But if I find myself on a situation like this, I will seek for some help.
+But if I find myself on a situation like this, I will seek for some help.
 First, I will DuckDuckGo it, because screw Google.
 If I can't find a solution, I will use Google because it is better.
-
-> If not avail, it's time for StackOverflow.
+If not avail, it's time for StackOverflow.
 No solutions?
 Time to go to the GitHub repository of the technology I am using and
 see the issues.
@@ -101,13 +98,11 @@ unicorn and rainbows.
 This is because for every good, there is some bad.
 It is logic.
 But I guess it can't be helped.
-
-> It is hard to keep motivation high when you code everyday, every time.
+It is hard to keep motivation high when you code everyday, every time.
 Without friends, without a plan, without determination, or without the thirst
 for knowledge and the will to be one of the best, it is going to be hard to
 keep up with the dorm requirements and the strict deadlines.
-
-> One of the reasons might be that the Piscine, the totally not boot-camp,
+One of the reasons might be that the Piscine, the totally not boot-camp,
 introductory test program that you need to complete to be accepted as a student,
 is fast paced.
 And the regular program is at your own pace fast.
@@ -121,8 +116,7 @@ but they do not offer job placement, what would you say?
 > Internships and jobs are required at 42 School.
 Maybe they want us to grow personally, get some greens, and be successful
 on life?
-
-> Our foundation as a society is to contribute back, and one way to do it is
+Our foundation as a society is to contribute back, and one way to do it is
 to work. The important thing is that you enjoy doing it.
 It is what going to define you later in life.
 If you do well in 42 School, you already are working on your teamwork,
@@ -149,8 +143,7 @@ it feels a bit incomplete.
 This is not a negative view at all, it is just the way the world works.
 My whole life I have only went to one school, from kindergarten to high school.
 I faced some similar transitions and situation that 42 School is going through.
-
-> I am a believer that 42 School has great potential, but is up to us,
+I am a believer that 42 School has great potential, but is up to us,
 the students to make it the best coding school in the entire world.
 With the skills gained through the program, students will be able to adapt to a
 work environment relatively fast.
