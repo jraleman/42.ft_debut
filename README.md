@@ -82,8 +82,7 @@ Time to go to the GitHub repository of the technology I am using and
 see the issues.
 Nothing?
 Open an issue and cry because it will take a while for help to come to you.
-
-> But what if I can go and search for help?
+But what if I can go and search for help?
 That is where 42 comes into play.
 By knowing the different skills of people, you know who is good with
 JavaScript, Python, UI/UX design, Assembly, GraphQL, etc…
